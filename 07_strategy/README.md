@@ -1,4 +1,4 @@
-#strategy
+<h1>strategy</h1>
 
 the `strategy pattern` (also known as the policy pattern) is a behavioral software design pattern that enables selecting 
 an algorithm at runtime. Instead of implementing a single algorithm directly, code receives run-time instructions as to
